@@ -1,18 +1,13 @@
-const routes = [
-  {
-    path: '/',
-    component: () => import('layouts/MainLayout.vue'),
-    children: [
-      { path: '', component: () => import('pages/IndexPage.vue') }
-    ]
-  },
+import HomePage from 'pages/HomePage.vue'
+import RecipesList from 'pages/RecipesList.vue'
+import RecipeDetail from 'pages/RecipeDetail.vue'
+import AddRecipe from 'pages/AddRecipe.vue'
 
-  // Always leave this as last one,
-  // but you can also remove it
-  {
-    path: '/:catchAll(.*)*',
-    component: () => import('pages/ErrorNotFound.vue')
-  }
+const routes = [
+  { path: '/', component: HomePage },
+  { path: '/recipes', component: RecipesList },
+  { path: '/recipes/:id', component: RecipeDetail },
+  { path: '/add', component: AddRecipe },
 ]
 
 export default routes

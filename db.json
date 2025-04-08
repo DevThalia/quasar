@@ -1,0 +1,116 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "name": "Macarrons amb formdatge",
+      "description": "Macarrons cremosos amb formatge cheddar",
+      "category": "Pasta",
+      "image": "https://via.placeholder.com/100"
+    },
+    {
+      "id": "2",
+      "name": "Amanida verda",
+      "description": "Amanida fresca amb enciam i tomàquet",
+      "category": "Vegetarià",
+      "image": "https://via.placeholder.com/100"
+    },
+    {
+      "id": "3",
+      "name": "Pollastre al curry",
+      "description": "Pollastre tendre amb salsa de curry i arròs basmati",
+      "category": "Carn",
+      "image": "https://via.placeholder.com/100"
+    },
+    {
+      "id": "4",
+      "name": "Truita de patates",
+      "description": "Clàssica truita espanyola amb patata i ceba",
+      "category": "Vegetarià",
+      "image": "https://via.placeholder.com/100"
+    },
+    {
+      "id": "5",
+      "name": "Pizza Margarita",
+      "description": "Pizza amb tomàquet, mozzarella i alfàbrega",
+      "category": "Pasta",
+      "image": "https://via.placeholder.com/100"
+    },
+    {
+      "id": "6",
+      "name": "Lluç al forn",
+      "description": "Lluç amb patates i tomàquet al forn",
+      "category": "Peix",
+      "image": "https://via.placeholder.com/100"
+    },
+    {
+      "id": "7",
+      "name": "Cigrons estofats",
+      "description": "Cigrons amb verdures i espècies",
+      "category": "Vegetarià",
+      "image": "https://via.placeholder.com/100"
+    },
+    {
+      "id": "8",
+      "name": "Hamburguesa completa",
+      "description": "Hamburguesa amb formatge, enciam, tomàquet i bacó",
+      "category": "Carn",
+      "image": "https://via.placeholder.com/100"
+    },
+    {
+      "id": "9",
+      "name": "Crema de carbassa",
+      "description": "Sopa cremosa de carbassa amb un toc de gingebre",
+      "category": "Vegetarià",
+      "image": "https://via.placeholder.com/100"
+    },
+    {
+      "id": "10",
+      "name": "Espaguetis a la bolonyesa",
+      "description": "Espaguetis amb salsa de tomàquet i carn picada",
+      "category": "Pasta",
+      "image": "https://via.placeholder.com/100"
+    },
+    {
+      "id": "11",
+      "name": "Tacos mexicans",
+      "description": "Tacos de vedella amb coriandre, ceba i llima",
+      "category": "Carn",
+      "image": "https://via.placeholder.com/100"
+    },
+    {
+      "id": "12",
+      "name": "Salmó a la planxa",
+      "description": "Filet de salmó amb llimona i herbes",
+      "category": "Peix",
+      "image": "https://via.placeholder.com/100"
+    },
+    {
+      "id": "13",
+      "name": "Croquetes de pernil",
+      "description": "Croquetes casolanes amb pernil ibèric",
+      "category": "Carn",
+      "image": "https://via.placeholder.com/100"
+    },
+    {
+      "id": "14",
+      "name": "Wok de verdures",
+      "description": "Verdures saltejades amb soja i sèsam",
+      "category": "Vegetarià",
+      "image": "https://via.placeholder.com/100"
+    },
+    {
+      "id": "15",
+      "name": "Pastís de xocolata",
+      "description": "Pastís humit de xocolata amb cobertura de ganache",
+      "category": "Postres",
+      "image": "https://via.placeholder.com/100"
+    },
+    {
+      "id": "bbd0",
+      "name": "",
+      "description": "",
+      "image": "",
+      "category": ""
+    }
+  ]
+}
